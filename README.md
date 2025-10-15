@@ -26,8 +26,7 @@ defacement – hacked or altered websites
 
 <img width="780" height="308" alt="image" src="https://github.com/user-attachments/assets/7c9eba06-e2c5-4d9f-a2ca-14ed4752dff1" />
 
-<img width="721" height="323" alt="image" src="https://github.com/user-attachments/assets/98e378f0-04d0-457d-9bca-620d82fded9c" />
-
+<img width="950" height="470" alt="image" src="https://github.com/user-attachments/assets/8c078071-04d3-46f5-b585-64404b6ef349" />
 
 
 # Installation
